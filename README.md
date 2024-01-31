@@ -12,6 +12,8 @@ variables that are used to control the source meter in TSP to Python.
 3. Install package from GitHub with `pip install keithley2600@git+https://github.com/aghuth/keithley2600`
 4. Install requirements from requirements.txt
 
+There is another Keithley 2600 package on PyPI, which is a more functional and complicated alternative.
+
 ## Usage
 The interface to the device is presented as the `Keithley2600` class.  
 It is advised to use the interface with an IDE with line completion like PyCharm for quick feature discovery.  
